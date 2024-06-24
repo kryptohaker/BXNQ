@@ -5,6 +5,10 @@
 
  BXAQ or BXNQ, also known as MobileHunter or Fengcai, is a surveillance application used by Chinese authorities at border crossings, particularly in Xinjiang. This spyware is installed on tourists' or citizens’ Android phones to collect extensive personal data, including calendar entries, contacts, call logs, text messages, and even scans for over 73,000 specific files. 
 
+# Analysis Report
+
+Report can be downloaded from: https://hackersnotes.com/walkthrough-analyzing-bxaq-spyware/
+
 # References
 
  - https://www.nytimes.com/2019/07/02/technology/china-xinjiang-app.html 
