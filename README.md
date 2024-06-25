@@ -7,7 +7,9 @@
 
 # Analysis Report
 
-Report can be downloaded from: https://hackersnotes.com/walkthrough-analyzing-bxaq-spyware/
+Report can be downloaded from: 
+- https://hackersnotes.com/walkthrough-analyzing-bxaq-spyware/
+- https://www.researchgate.net/publication/381697860_Mobile_Penetration_Testing_Analysis_of_BXAQ_Spyware
 
 # References
 
